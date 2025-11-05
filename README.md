@@ -5,15 +5,7 @@ It allows users to browse food items, add them to a cart, place orders, and mana
 
 ---
 
-## 🚀 Live URLs
 
-* **Frontend:** [https://food-delivery-app-frontend-c73i.onrender.com](https://food-delivery-app-frontend-c73i.onrender.com)
-* **Backend:** [https://food-delivery-app-backend-0yhr.onrender.com](https://food-delivery-app-backend-0yhr.onrender.com)
-
-> ⚠️ Note: If the frontend or backend doesn’t load immediately, open the **backend URL first**.
-> Render’s free hosting puts inactive services to sleep, so visiting the backend URL wakes it up.
-
----
 
 ## 🧩 Features
 
